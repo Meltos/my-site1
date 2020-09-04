@@ -87,9 +87,14 @@ body {
   text-align: center;
 }
 
-.user-image {
+.kvin1-image {
   margin: 0 0 32px;
-  text-align: center;
+  text-align: left;
+}
+
+.kvin2-image {
+  margin: 0 0 32px;
+  text-align: right;
 }
 
 .intro h3,
